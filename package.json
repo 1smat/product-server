@@ -7,7 +7,7 @@
   "scripts": {
     "start": "npm run build && node dist/server.js",
     "dev": "cross-env nodemon",
-    "build": "swc src -d dist --source-maps --copy-files",
+    "build": "yarn run build:tsc",
     "build:tsc": "tsc && tsc-alias",
     "test": "jest --forceExit --detectOpenHandles",
     "lint": "eslint --ignore-path .gitignore --ext .ts src/",
