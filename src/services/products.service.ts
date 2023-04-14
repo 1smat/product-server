@@ -13,14 +13,14 @@ export class ProductsService {
           _id: "0",
           title: "Iphone X",
           desc: "White 64gb",
-          message: `Some logic with ${subdomain} subdomain from server`
+          message: `Some logic with ${subdomain} subdomain on server`
 
         },
         {
           _id: "1",
           title: "Iphone 11",
           desc: "Black 128gb",
-          message: `Some logic with ${subdomain} subdomain from server`
+          message: `Some logic with ${subdomain} subdomain on server`
 
 
         },
@@ -28,7 +28,7 @@ export class ProductsService {
           _id: "2",
           title: "Iphone 12",
           desc: "Midnight 256gb",
-          message: `Some logic with ${subdomain} subdomain from server`
+          message: `Some logic with ${subdomain} subdomain on server`
 
         }
       ]
