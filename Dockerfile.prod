@@ -17,3 +17,4 @@ EXPOSE 3000
 
 # Cmd script
 CMD ["npm", "run", "start"]
+
