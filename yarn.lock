@@ -2504,7 +2504,7 @@ bson@^4.7.0:
     buffer "^5.6.0"
 
 bson@^5.0.1:
-  version "5.2.0"
+  version "5.1.0"
   resolved "https://registry.yarnpkg.com/bson/-/bson-5.2.0.tgz#c81d35dd30e2798203e5422a639780ea98dd25ba"
   integrity sha512-HevkSpDbpUfsrHWmWiAsNavANKYIErV2ePXllp1bwq5CDreAaFVj6RVlZpJnxK4WWDCJ/5jMUpaY6G526q3Hjg==
 
